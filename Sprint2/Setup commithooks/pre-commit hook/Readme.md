@@ -121,8 +121,8 @@ By setting up this pre-commit hook, you ensure all commit messages are linked to
 ## References
 | Reference                         | Link                                              |
 |-----------------------------------|---------------------------------------------------|
-| Git Documentation on Hooks        | [Git Hooks](https://git-scm.com/docs/githooks)    |
-| Husky                             | [Husky](https://typicode.github.io/husky/)        |
-| Prettier Git Hooks                | [Prettier](https://prettier.io/docs/en/precommit.html) |
+| Recommendations of Commit Hooks        | [VISIT HERE](https://github.com/snaatak-Downtime-Crew/Documentation/blob/SCRUMS-133-Durgesh/vcs_design%20%2B%20poc/commithooks/recommendation/README.md)    |
+| Understanding of Commit Hooks          | [VISIT HERE](https://github.com/snaatak-Downtime-Crew/Documentation/blob/SCRUMS-133-Durgesh/vcs_design%20%2B%20poc/commithooks/understanding/README.md)        |
+| Prettier Git Hooks                     | [VISIT HERE](https://prettier.io/docs/en/precommit.html)                                                                                                      |
 
 
